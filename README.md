@@ -1,6 +1,13 @@
 # EJS Javascript Templating in HTML on Node.js
 
-This is a simple web application built on Node.js utalizing EJS to insert Javascript templates into HTML files. More importantly, it shows how to utalize EJS partials(repeated blocks of HTML) with your main html pages, and how to link any stylesheets and javascript files you want on served up on the client side of the app. This really shows just how simple it can be to set up and start using EJS.
+This is a simple & bare web application built with Express and Node.js utalizing EJS to insert Javascript templates into HTML files. 
+
+Here's what is demonstrated in this example EJS application:
+
+- How to utalize EJS partials(repeated blocks of HTML) with your main html pages.
+- How to link any stylesheets and javascript files you may want on served up on the client side of the app. 
+- The basic EJS app folder structure.
+
 
 This test application will be utalizing Express to handle to the server creation. 
 
